@@ -1,0 +1,5 @@
+[workspace]
+members = [
+    "projects/01-calculadora",
+]
+resolver = "2"
