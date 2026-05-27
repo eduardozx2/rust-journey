@@ -6,4 +6,4 @@ Após alguns estudo no rust-book, aprendi a usar algumas coisas básicas da prog
 - Laços de repetição (``loops``)
 - Funções
   
-### Esse foi um projeto básico que me ajudou a entender como funciona os alguns comandos básicos da linguagem
+### Esse foi um projeto básico que me ajudou a entender como funciona alguns comandos básicos da linguagem
